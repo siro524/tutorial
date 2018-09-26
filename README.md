@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/siro524/tutorial.svg?branch=master)](https://travis-ci.org/siro524/tutorial)
+[![Build Status](https://travis-ci.org/siro524/tutorial.svg?branch=master)](https://travis-ci.org/siro524/tutorial.svg?branch=master)
 
 # 今回の問題
 
